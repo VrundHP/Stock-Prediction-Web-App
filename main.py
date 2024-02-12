@@ -1,4 +1,7 @@
-# pip install streamlit fbprophet yfinance plotly
+#TO RUN YOU NEED TO RUN THE FOLLOWING IN THE TERMINAL
+#pip3 or pip depended on what you have
+#pip3 install streamlit, yfinance, prophet, plotly
+#and then to get the web app you need to type streamlit run (location of python file, ex. /User/vrundpatel/Desktop/main.py)
 import streamlit as st
 from datetime import date
 
