@@ -1,4 +1,3 @@
-#Stock-Prediction-Web-App
 
 To run the program:
 
